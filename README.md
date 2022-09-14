@@ -5,7 +5,7 @@ dos dias 11 a 18 de setembro.
 ## 🚀 Tecnologias
 
 - HTML
-- 
+- CSS
 - <a href="https://code.visualstudio.com/"> Visual Studio Code </a>
 - <a href="https://www.figma.com/"> Figma </a>
 
