@@ -2,7 +2,7 @@
 > <a href="https://lp.rocketseat.com.br/nlw?referralId=olga-38628"> Next Level Week eSports</a> - **Trilha Explorer**. <br> Evento promovido pela Rocketseat,
 dos dias 11 a 18 de setembro. 
 
-![preview](./.github/Captura.png)
+![preview](./.github/preview.png)
 ## 🚀 Tecnologias
 
 - HTML
