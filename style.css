@@ -80,8 +80,11 @@ section p{
 section ul {
   display: flex;
   flex-wrap: wrap;
-  gap: 16px;
   margin-top: 24px;
+}
+
+.social-list {
+  gap: 16px;
 }
 
 section ul li {
